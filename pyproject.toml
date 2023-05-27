@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "docs-classification"
+version = "0.1.0"
+description = ""
+authors = ["SlawCzech <slaw.czech@gmail.com>"]
+license = "Beerware"
+readme = "README.md"
+packages = [{include = "docs_classification"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+jupyter = "^1.0.0"
+pandas = "^2.0.1"
+matplotlib = "^3.7.1"
+pytesseract = "^0.3.10"
+opencv-python = "^4.7.0.72"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
