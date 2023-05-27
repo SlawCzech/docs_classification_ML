@@ -14,6 +14,8 @@ pandas = "^2.0.1"
 matplotlib = "^3.7.1"
 pytesseract = "^0.3.10"
 opencv-python = "^4.7.0.72"
+langdetect = "1.0.9"
+spellchecker = "0.4"
 
 
 [build-system]
