@@ -16,6 +16,8 @@ pytesseract = "^0.3.10"
 opencv-python = "^4.7.0.72"
 langdetect = "1.0.9"
 spellchecker = "0.4"
+nltk = "3.8.1"
+scikit-learn = "1.2.2"
 
 
 [build-system]
