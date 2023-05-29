@@ -18,6 +18,8 @@ langdetect = "1.0.9"
 spellchecker = "0.4"
 nltk = "3.8.1"
 scikit-learn = "1.2.2"
+torch = "2.0.1"
+torchvision = "0.15.2"
 
 
 [build-system]
