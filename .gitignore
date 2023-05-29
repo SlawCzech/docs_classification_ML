@@ -2,5 +2,3 @@
 .idea
 venv
 
-# train and test documents
-data
